@@ -11,7 +11,7 @@
 
 例如下方左侧为 **事实性幻觉**，右侧为 **忠实性幻觉**：
 
-![image-20260809234523735](C:\Users\北兴老贾\AppData\Roaming\Typora\typora-user-images\image-20260809234523735.png)
+![事实性幻觉与忠实性幻觉对比](images/image-20260809234523735.png)
 
 ## 1.2 产生幻觉的原因
 
