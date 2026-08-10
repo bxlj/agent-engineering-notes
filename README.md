@@ -36,3 +36,5 @@
 
  [大预言模型出现幻觉的原因及缓解方案](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-development-fundamentals/hallucination.md)
 
+ [检索增强生成RAG基础架构介绍](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-development-fundamentals/enhanced-retrieval.md)
+
