@@ -38,3 +38,4 @@
 
  [检索增强生成RAG基础架构介绍](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-development-fundamentals/enhanced-retrieval.md)
 
+[向量数据库的介绍与用途](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-development-fundamentals/vector-database.md)
