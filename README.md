@@ -32,7 +32,7 @@
 
 # 目录
 
-### 大预言模型RAG应用开发基础
+### 大语言模型RAG应用开发基础
 
  [大语言模型出现幻觉的原因及缓解方案](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-development-fundamentals/hallucination.md)
 
