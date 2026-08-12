@@ -43,3 +43,7 @@
 [传统数据库与向量数据库的使用差异](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-development-fundamentals/diff_trad_vs_vector_db.md)
 
 [Embedding嵌入模型介绍](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-development-fundamentals/embedding.md)
+
+### Embedding嵌入模型
+
+[OpenAI Embedding 嵌入模型](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/embedding-model/openai-embedding.md)
