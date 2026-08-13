@@ -61,3 +61,7 @@
 [CacheBackEmbedding 组件的使用](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/embedding-model/CacheBackEmbedding.md)
 
 [其他Embedding嵌入模型](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/embedding-model/other-embedding.md)
+
+## 文本分割器
+
+[递归字符文本分割器的使用与运行流程](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/text-splitter/recursive-text-splitter.md)
