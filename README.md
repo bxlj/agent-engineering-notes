@@ -50,6 +50,8 @@
 
 [自定义 LangChain 文档加载器使用技巧](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/langchain-rag-application-development/custom-langchain-document-loader.md)
 
+[Blob 与 BlobParser 代替文档加载器](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/langchain-rag-application-development/blob-and-blobparser.md)
+
 ## Embedding嵌入模型
 
 [OpenAI Embedding 嵌入模型](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/embedding-model/openai-embedding.md)
