@@ -48,6 +48,8 @@
 
 [Document 组件与文档加载器的使用](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/langchain-rag-application-development/document-components-and-document-loaders.md)
 
+[自定义 LangChain 文档加载器使用技巧]()
+
 ## Embedding嵌入模型
 
 [OpenAI Embedding 嵌入模型](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/embedding-model/openai-embedding.md)
