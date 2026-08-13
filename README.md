@@ -52,6 +52,8 @@
 
 [Blob 与 BlobParser 代替文档加载器](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/langchain-rag-application-development/blob-and-blobparser.md)
 
+[文档转换器与字符分割器组件的使用](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/langchain-rag-application-development/doc-converter-character-splitter-component.md)
+
 ## Embedding嵌入模型
 
 [OpenAI Embedding 嵌入模型](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/embedding-model/openai-embedding.md)
