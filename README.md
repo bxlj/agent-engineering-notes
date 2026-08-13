@@ -44,6 +44,10 @@
 
 [Embedding嵌入模型介绍](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-development-fundamentals/embedding.md)
 
+### LangChain RAG 应用开发组件
+
+[Document 组件与文档加载器]()
+
 ### Embedding嵌入模型
 
 [OpenAI Embedding 嵌入模型](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/embedding-model/openai-embedding.md)
