@@ -49,3 +49,5 @@
 [OpenAI Embedding 嵌入模型](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/embedding-model/openai-embedding.md)
 
 [CacheBackEmbedding 组件的使用](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/embedding-model/CacheBackEmbedding.md)
+
+[其他Embedding嵌入模型](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/embedding-model/other-embedding.md)
