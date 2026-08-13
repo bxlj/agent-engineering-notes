@@ -32,7 +32,7 @@
 
 # 目录
 
-### 大语言模型RAG应用开发基础
+## 大语言模型RAG应用开发基础
 
  [大语言模型出现幻觉的原因及缓解方案](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-development-fundamentals/hallucination.md)
 
@@ -44,11 +44,11 @@
 
 [Embedding嵌入模型介绍](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-development-fundamentals/embedding.md)
 
-### LangChain RAG 应用开发组件
+## LangChain RAG 应用开发组件
 
 [Document 组件与文档加载器的使用](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/langchain-rag-application-development/document-components-and-document-loaders.md)
 
-### Embedding嵌入模型
+## Embedding嵌入模型
 
 [OpenAI Embedding 嵌入模型](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/embedding-model/openai-embedding.md)
 
