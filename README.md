@@ -46,7 +46,7 @@
 
 ### LangChain RAG 应用开发组件
 
-[Document 组件与文档加载器]()
+[Document 组件与文档加载器的使用](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/langchain-rag-application-development/document-components-and-document-loaders.md)
 
 ### Embedding嵌入模型
 
