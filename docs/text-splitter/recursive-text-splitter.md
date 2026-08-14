@@ -15,7 +15,7 @@
 
 所以如果使用默认参数，这个字符文本分割器最后得到的文档块长度一定不会超过预设的大小，但是仍然会有小概率出现远小于的情况（目前也没有很好的解决方案）。
 
-例如使用递归字符文本分割器修改上节课的需求，示例代码如下：
+例如使用递归字符文本分割器修改上次的需求，示例代码如下：
 
 ```python
 from langchain_community.document_loaders import UnstructuredMarkdownLoader
