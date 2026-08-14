@@ -67,3 +67,5 @@
 [递归字符文本分割器的使用与运行流程](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/text-splitter/recursive-text-splitter.md)
 
 [语义文档分割器与其他文档分割器的使用](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/text-splitter/semantic-text-splitter.md)
+
+[自定义 LangChain 文档分割器技巧](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/text-splitter/custom-text-splitter.md)
