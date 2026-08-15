@@ -69,3 +69,5 @@
 [语义文档分割器与其他文档分割器的使用](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/text-splitter/semantic-text-splitter.md)
 
 [自定义 LangChain 文档分割器技巧](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/text-splitter/custom-text-splitter.md)
+
+[非分割类型的文档转换器使用技巧](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/text-splitter/non%E2%80%91chunking-doc-transformer.md)
