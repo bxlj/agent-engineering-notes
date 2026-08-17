@@ -74,4 +74,8 @@
 
 ## RAG优化策略
 
-[使用检索器逻辑路由缩减检索范围](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/LR‑Retriever.md)
+[使用检索器逻辑路由缩减检索范围](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/LR_Retriever.md)
+
+[使用语义路由选择不同的 Prompt 模板](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/srpt_prompt_routing.md)
+
+[自查询检索器实现动态元数据过滤]()
