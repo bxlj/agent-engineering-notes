@@ -71,3 +71,7 @@
 [自定义 LangChain 文档分割器技巧](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/text-splitter/custom-text-splitter.md)
 
 [非分割类型的文档转换器使用技巧](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/text-splitter/non%E2%80%91chunking-doc-transformer.md)
+
+## RAG优化策略
+
+[使用检索器逻辑路由缩减检索范围](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/LR‑Retriever.md)
