@@ -78,4 +78,5 @@
 
 [使用语义路由选择不同的 Prompt 模板](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/srpt_prompt_routing.md)
 
-[自查询检索器实现动态元数据过滤]()
+[自查询检索器实现动态元数据过滤](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/self_query_retriever_dynamic_metadata_filter.md)
+
