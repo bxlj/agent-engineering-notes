@@ -16,7 +16,9 @@
 
 Faiss 是 Facebook 团队开源的向量检索工具，针对高维空间的海量数据，提供高效可靠的相似性检索方式，被广泛用于推荐系统、图片和视频搜索等业务。Faiss 支持 Linux、macOS 和 Windows 操作系统，在百万级向量的相似性检索表现中，Faiss 能实现 < 10ms 的响应（需牺牲搜索准确度）。
 
-Faiss 官网：https://faiss.ai/，Faiss 仓库：https://github.com/facebookresearch/faiss
+Faiss 官网：https://faiss.ai/
+
+Faiss 仓库：https://github.com/facebookresearch/faiss
 
 Faiss 使用 C++ 开发，提供了 Python 接口，可以通过 pip 安装 Faiss 库：
 
