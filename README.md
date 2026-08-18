@@ -80,3 +80,4 @@
 
 [自查询检索器实现动态元数据过滤](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/self_query_retriever_dynamic_metadata_filter.md)
 
+[MultiVector 实现多向量检索检索文档](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/multi_vector_retrieval.md)
