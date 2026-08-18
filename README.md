@@ -72,6 +72,10 @@
 
 [非分割类型的文档转换器使用技巧](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/text-splitter/non%E2%80%91chunking-doc-transformer.md)
 
+## 向量数据库
+
+[Faiss 向量数据库的配置与使用](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/vector-database/faiss.md)
+
 ## RAG优化策略
 
 [使用检索器逻辑路由缩减检索范围](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/LR_Retriever.md)
