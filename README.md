@@ -99,3 +99,5 @@
 [多模态 LLM 执行函数调用的技巧](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/llm-function-call-agent-dev/multimodal-llm-function-call.md)
 
 [基于 ReACT 架构的 Agent 智能体设计与实现](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/llm-function-call-agent-dev/ReACT_Agent_Design_And_Implementation.md)
+
+[基于工具调用的智能体设计与实现](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/llm-function-call-agent-dev/tool_calling_agent_design.md)
