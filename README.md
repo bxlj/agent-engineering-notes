@@ -93,3 +93,5 @@
 ## 大语言模型函数调用与Agent开发
 
 [函数调用快速提取结构化数据使用技巧](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/llm-function-call-agent-dev/function‑call‑struct‑extract.md)
+
+[函数调用出错处理提升程序健壮性](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/llm-function-call-agent-dev/function-call-error-handling.md)
