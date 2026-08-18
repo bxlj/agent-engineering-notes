@@ -95,3 +95,5 @@
 [函数调用快速提取结构化数据使用技巧](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/llm-function-call-agent-dev/function‑call‑struct‑extract.md)
 
 [函数调用出错处理提升程序健壮性](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/llm-function-call-agent-dev/function-call-error-handling.md)
+
+[多模态 LLM 执行函数调用的技巧](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/llm-function-call-agent-dev/multimodal-llm-function-call.md)
