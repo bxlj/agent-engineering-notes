@@ -81,3 +81,5 @@
 [自查询检索器实现动态元数据过滤](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/self_query_retriever_dynamic_metadata_filter.md)
 
 [MultiVector 实现多向量检索检索文档](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/multi_vector_retrieval.md)
+
+[父文档检索器实现拆分和存储平衡](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/parent_doc_retriever_splitting_storage_balance.md)
