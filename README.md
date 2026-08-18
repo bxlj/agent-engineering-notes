@@ -89,3 +89,7 @@
 [ReRank 重排序提升 RAG 系统效果](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/rag_rerank_reordering.md)
 
 [纠正性索引增强生成 CRAG 优化策略](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/crag_optimization_strategy.md)
+
+## 大语言模型函数调用与Agent开发
+
+[函数调用快速提取结构化数据使用技巧](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/llm-function-call-agent-dev/function‑call‑struct‑extract.md)
