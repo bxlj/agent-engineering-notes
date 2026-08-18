@@ -84,6 +84,8 @@
 
 [对接自定义向量数据库的配置与使用](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/vector-database/custom_vector_store.md)
 
+[VectorStore 组件深入学习与检索方法](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/vector-database/vectorstore.md)
+
 ## RAG优化策略
 
 [使用检索器逻辑路由缩减检索范围](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/LR_Retriever.md)
