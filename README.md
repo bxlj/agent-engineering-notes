@@ -85,3 +85,5 @@
 [父文档检索器实现拆分和存储平衡](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/parent_doc_retriever_splitting_storage_balance.md)
 
 [递归文档树检索实施高级 RAG 优化理解](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/raptor_recursive_tree_rag_optimization.md)
+
+[ReRank 重排序提升 RAG 系统效果](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/rag_rerank_reordering.md)
