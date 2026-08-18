@@ -87,3 +87,5 @@
 [递归文档树检索实施高级 RAG 优化理解](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/raptor_recursive_tree_rag_optimization.md)
 
 [ReRank 重排序提升 RAG 系统效果](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/rag_rerank_reordering.md)
+
+[纠正性索引增强生成 CRAG 优化策略](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-strategies/crag_optimization_strategy.md)
