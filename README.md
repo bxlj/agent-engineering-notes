@@ -115,3 +115,7 @@
 [基于 ReACT 架构的 Agent 智能体设计与实现](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/llm-function-call-agent-dev/ReACT_Agent_Design_And_Implementation.md)
 
 [基于工具调用的智能体设计与实现](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/llm-function-call-agent-dev/tool_calling_agent_design.md)
+
+## LangChain RAG 开发多阶段优化
+
+[RAG 开发 6 个阶段优化策略分析](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-and-knowledge-base/rag‑six‑stages‑optimization.md)
