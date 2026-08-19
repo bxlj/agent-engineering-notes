@@ -123,3 +123,5 @@
 [多查询重写策略提升检索准确性](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-and-knowledge-base/multi‑query‑rewrite‑retrieval‑accuracy.md)
 
 [RAG 多查询结果融合策略](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-and-knowledge-base/rag‑multi‑query‑fusion‑rrf.md)
+
+[问题分解策略提升复杂问题检索正确率](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-and-knowledge-base/rag‑question‑decomposition‑strategy.md)
