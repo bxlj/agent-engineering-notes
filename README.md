@@ -121,3 +121,5 @@
 [RAG 开发 6 个阶段优化策略分析](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-and-knowledge-base/rag‑six‑stages‑optimization.md)
 
 [多查询重写策略提升检索准确性](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-and-knowledge-base/multi‑query‑rewrite‑retrieval‑accuracy.md)
+
+[RAG 多查询结果融合策略](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-and-knowledge-base/rag‑multi‑query‑fusion‑rrf.md)
