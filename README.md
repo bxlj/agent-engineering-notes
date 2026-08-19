@@ -125,3 +125,5 @@
 [RAG 多查询结果融合策略](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-and-knowledge-base/rag‑multi‑query‑fusion‑rrf.md)
 
 [问题分解策略提升复杂问题检索正确率](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-and-knowledge-base/rag‑question‑decomposition‑strategy.md)
+
+[Step‑Back 回答回退策略扩大检索范围](https://github.com/bxlj/agent-engineering-notes/blob/main/docs/rag-optimization-and-knowledge-base/step‑back‑retrieval‑strategy.md)
